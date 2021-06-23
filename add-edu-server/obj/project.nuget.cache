@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2N8SrTWto8E6s45VZT24bBLnT5f3jwFR7rTS9D/CbExWT+02FOOx10wcAFYOfb8eavgcLYAZiX2E2kq2p5xUhQ==",
+  "success": true,
+  "projectFilePath": "C:\\source\\kitis\\add-edu-server\\add-edu-server\\add-edu-server\\add-edu-server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dissmind\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dissmind\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dissmind\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Dissmind\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Dissmind\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Dissmind\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
